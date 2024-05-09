@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&center=true&vCenter=true&width=435&lines=Web3+and+BlockChain+Developer;Experienced+Full-Stack+Developer;4%2B+years+of+Coding+Experience;Always+Learn+Something+New" alt="Typing SVG" /></a> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
