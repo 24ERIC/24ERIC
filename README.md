@@ -30,7 +30,7 @@
 </p>
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 My Top Web3 Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -51,7 +51,7 @@
 </details>
 
 <details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+  <summary><h2>📕 Top Hackathon Project</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
