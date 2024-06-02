@@ -45,14 +45,12 @@ href:
 git repo
 
 src:
-https://eric-github-readme-stats.vercel.app/api/pin/?username=24ERIC&repo=
-Project_Journey
-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false
+https://eric-github-readme-stats.vercel.app/api/pin/?username=24ERIC&repo=   Project_Journey     &theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false
 
 alt:
 project name
  -->
-https://github.com/24ERIC/UniversalFileConverter
+
 
 
 
@@ -64,11 +62,7 @@ https://github.com/24ERIC/UniversalFileConverter
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <summary><h2>Top Full Stack Projects</h2></summary>
 <p align="left">
-  <a href="https://github.com/24ERIC/UniversalFileConverter"><img width="278" src="
-https://eric-github-readme-stats.vercel.app/api/pin/?username=24ERIC&repo=
-UniversalFileConverter
-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false
-" alt="UniversalFileConverter"></a>
+<a href="https://github.com/24ERIC/UniversalFileConverter"><img width="278" src="https://eric-github-readme-stats.vercel.app/api/pin/?username=24ERIC&repo=UniversalFileConverter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="UniversalFileConverter"></a>
 </p>
 
 
